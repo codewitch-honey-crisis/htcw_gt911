@@ -1,0 +1,21 @@
+{
+    "name": "htcw_gt911",
+    "version": "0.1.0",
+    "description": "Provides support for the GT911 capacitive touch panel",
+    "keywords": ["touch", "capacitive", "touch-panel", "lcd"],
+    "authors": {
+        "name":"honey the codewitch",
+        "homepage": "https://www.codeproject.com/Members/code-witch"
+    },
+    "license": "MIT",
+    "frameworks": ["arduino"],
+    "platforms": "*",
+    "dependencies": {
+        "Wire": "*"
+    },
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/codewitch-honey-crisis/htcw_gt911.git"
+    }
+}
